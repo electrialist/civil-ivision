@@ -1,5 +1,4 @@
 Civil-iVision
-
 A Computer Vision Application For Measuring Deflection of Structural Members
 by:
 Carpio, Barne Roxette
