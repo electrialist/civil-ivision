@@ -1,5 +1,5 @@
 Civil-iVision
-A Computer Vision Application For Measuring Deflection of Structural Members
+A computer vision application for measuring the deflection in a two-dimensional view of reinforced concrete beams
 by:
 Carpio, Barne Roxette
 Piedad, Eduardo Jr.
